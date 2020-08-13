@@ -18,9 +18,10 @@ My name is Krishan Gulati. I'm a professional full-stack engineer who develops w
 - Good oral and written communication abilities
 
 ### Experience
-```sh Java Developer
+Java Developer
 24/6/2019 – Present
-Cognizant Technology Solutions ```
+Cognizant Technology Solutions 
+
 
 <!--
 **krishangulati1/krishangulati1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
