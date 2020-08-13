@@ -22,6 +22,13 @@ Java Developer
 24/6/2019 – Present
 Cognizant Technology Solutions 
 
+### Education
+*Bachelor’s Degree – Computer Science Engineering
+2019
+Lovely Professional University
+Phagwara, Punjab
+CGPA 7.7 on a 10.0 scale*
+
 
 <!--
 **krishangulati1/krishangulati1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
