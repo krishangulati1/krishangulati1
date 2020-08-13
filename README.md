@@ -26,7 +26,7 @@ Bachelor’s Degree – Computer Science Engineering <br />
 Lovely Professional University <br />
 Phagwara, Punjab <br />
 CGPA 7.7 on a 10.0 scale <br /> 
----
+
 
 <!--
 **krishangulati1/krishangulati1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
